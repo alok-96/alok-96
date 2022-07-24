@@ -1,4 +1,7 @@
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
 </div>
 
@@ -7,18 +10,14 @@
   I am Alok Dwivedi
 </h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
-</div>
 
-
----
+<!-- --- -->
 
 ### :man_technologist: About Me :
 
 - 🔭 I’m currently studying Computer Science
 - 🌱 I’m currently learning Front End Web Development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alok-dwivedi-4347801b8/) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-dwivedi-4347801b8/) 
 - 😄 Pronouns: he/him
 
 ---
@@ -41,3 +40,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alok-96&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-96&layout=compact&theme=vision-friendly-dark)](https://github.com/alok-96/github-readme-stats)
