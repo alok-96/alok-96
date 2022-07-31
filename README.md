@@ -7,7 +7,7 @@
 
 <h1 align = "center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I am Alok Dwivedi
+  I am Alok Dwivedi 
 </h1>
 
 
@@ -15,8 +15,9 @@
 
 ### :man_technologist: About Me :
 
-- 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning Front End Web Development
+- 🔭 I’m currently pursuing B.Tech in Computer Science & Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently exploring Front End Web Development
+- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-dwivedi-4347801b8/) 
 - 😄 Pronouns: he/him
 
