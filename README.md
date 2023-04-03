@@ -40,7 +40,17 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alok-96&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=alok-96&theme=dark&background=000000)](https://git.io/streak-stats" alt="alok-96's streak">
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-96&layout=compact&theme=vision-friendly-dark)](https://github.com/alok-96/github-readme-stats)
+
+<p align="center">
+  <br/>
+    <a href="https://github.com/alok-96/github-readme-stats"><img alt="alok-96's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alok-96&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/alok-96/github-readme-stats"><img alt="alok-96's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alok-96&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+</p>
+
+
 
