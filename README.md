@@ -1,12 +1,8 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/>
+<div >
+<!--   <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="500"/> -->
+  <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello, I'm Alok Dwivedi </h1>
 </div>
-
-<h1 align = "center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I am Alok Dwivedi 
-</h1>
-
 
 <!-- --- -->
 
