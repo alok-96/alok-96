@@ -40,6 +40,9 @@
   <a href="https://github.com/alok-96/github-readme-stats"><img alt="alok-96's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alok-96&langs_count=8&count_private=true&layout=compact&theme=dark&background=000000" /></a>
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=alok-96&theme=dark&background=000000" alt="alok-96's github stats">
+</p>
 
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=alok-96&theme=dark&background=000000)](https://git.io/streak-stats" alt="alok-96's streak">
