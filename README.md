@@ -4,7 +4,7 @@
 </div>
 
 
-### :man_technologist: About Me :
+### 🧑‍💻 About Me :
 
 - 🔭 I’m currently pursuing B.Tech in Computer Science & Engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently exploring Web Development.
@@ -14,11 +14,11 @@
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,firebase,xd,vscode,git,chakraui)](https://skillicons.dev)
 
 
-### :fire: My Stats :
+### 🔥 My Stats :
 <p align="center">
   <a href="https://github.com/alok-96/github-readme-stats"><img alt="alok-96's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alok-96&langs_count=8&count_private=true&layout=compact&theme=dark&background=000000" /></a>
 </p>
